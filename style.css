@@ -33,3 +33,20 @@ margin-right: 20px;
 border-radius: 50%;
 
 }
+
+html {
+  background: #e3e3e3;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 30px;
+  color: chocolate;
+  border-top: 10px solid #242424;
+  background: #fff;
+ }
+
+ div {
+  background: #fff;
+  flex: 5;
+}
